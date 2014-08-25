@@ -8,10 +8,6 @@
  * Controller of the gbaApp
  */
 angular.module('gbaApp')
-  .controller('MainCtrl', function ($scope) {
-    $scope.awesomeThings = [
-      'HTML5 Boilerplate',
-      'AngularJS',
-      'Karma'
-    ];
+  .controller('RegisterCtrl', function ($scope) {
+
   });
